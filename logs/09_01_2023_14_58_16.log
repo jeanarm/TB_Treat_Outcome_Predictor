@@ -1,0 +1,16 @@
+[2023-09-01 14:58:16,558]160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[2023-09-01 14:58:17,236]23 root - INFO - Entered data ingestion method or components
+[2023-09-01 14:58:17,239]26 root - INFO - read the dataset as dataframe
+[2023-09-01 14:58:17,239]30 root - INFO - Train test split initiated
+[2023-09-01 14:58:17,245]37 root - INFO - Ingestion of the data is completed
+[2023-09-01 14:58:17,245]23 root - INFO - Entered data ingestion method or components
+[2023-09-01 14:58:17,247]26 root - INFO - read the dataset as dataframe
+[2023-09-01 14:58:17,247]30 root - INFO - Train test split initiated
+[2023-09-01 14:58:17,252]37 root - INFO - Ingestion of the data is completed
+[2023-09-01 14:58:17,254]70 root - INFO - Read train and test completed
+[2023-09-01 14:58:17,254]72 root - INFO - obtening preprocessor object
+[2023-09-01 14:58:17,254]51 root - INFO - Numerical Columns: ['Weight after TB Treatment(kg)']
+[2023-09-01 14:58:17,254]52 root - INFO - Categorical Columns: ['Site of disease', 'GeneXpert results - MTB', 'Method of TB confirmation', 'Control After TB Treatment', 'Control After 2 month', 'Control After 5 month', 'Smear specimen result', 'Previous treatment history']
+[2023-09-01 14:58:17,255]85 root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+[2023-09-01 14:58:17,262]97 root - INFO - Saved preprocessing objects.
+[2023-09-01 14:58:17,938]98 root - INFO - Best Found model on both training and testing dataset

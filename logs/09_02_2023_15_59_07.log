@@ -1,0 +1,15 @@
+[2023-09-02 15:59:07,550]224 werkzeug - WARNING -  * Debugger is active!
+[2023-09-02 15:59:07,568]224 werkzeug - INFO -  * Debugger PIN: 749-178-404
+[2023-09-02 15:59:47,602]224 werkzeug - INFO - 127.0.0.1 - - [02/Sep/2023 15:59:47] "GET /predict HTTP/1.1" 200 -
+[2023-09-02 16:00:16,146]224 werkzeug - INFO - 127.0.0.1 - - [02/Sep/2023 16:00:16] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2023-09-02 16:00:16,159]224 werkzeug - INFO - 127.0.0.1 - - [02/Sep/2023 16:00:16] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2023-09-02 16:00:16,159]224 werkzeug - INFO - 127.0.0.1 - - [02/Sep/2023 16:00:16] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2023-09-02 16:00:16,172]224 werkzeug - INFO - 127.0.0.1 - - [02/Sep/2023 16:00:16] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-09-02 16:00:16,181]224 werkzeug - INFO - 127.0.0.1 - - [02/Sep/2023 16:00:16] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-09-02 16:03:33,789]224 werkzeug - INFO - 127.0.0.1 - - [02/Sep/2023 16:03:33] "GET /predict HTTP/1.1" 200 -
+[2023-09-02 16:04:04,514]224 werkzeug - INFO - 127.0.0.1 - - [02/Sep/2023 16:04:04] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2023-09-02 16:04:04,531]224 werkzeug - INFO - 127.0.0.1 - - [02/Sep/2023 16:04:04] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2023-09-02 16:04:04,532]224 werkzeug - INFO - 127.0.0.1 - - [02/Sep/2023 16:04:04] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2023-09-02 16:04:04,563]224 werkzeug - INFO - 127.0.0.1 - - [02/Sep/2023 16:04:04] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-09-02 16:04:04,578]224 werkzeug - INFO - 127.0.0.1 - - [02/Sep/2023 16:04:04] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-09-02 16:05:31,053]224 werkzeug - INFO -  * Detected change in '/Users/armel/Documents/MSDSThesis/TB_Flask_Predictor_App/app.py', reloading

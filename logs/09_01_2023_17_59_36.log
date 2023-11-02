@@ -1,0 +1,3 @@
+[2023-09-01 17:59:36,391]224 werkzeug - WARNING -  * Debugger is active!
+[2023-09-01 17:59:36,398]224 werkzeug - INFO -  * Debugger PIN: 749-178-404
+[2023-09-01 18:00:31,080]224 werkzeug - INFO -  * Detected change in '/Users/armel/Documents/MSDSThesis/TB_Flask_Predictor_App/src/pipeline/predict_pipeline.py', reloading

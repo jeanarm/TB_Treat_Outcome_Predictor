@@ -1,0 +1,9 @@
+[2023-09-02 16:07:14,331]224 werkzeug - WARNING -  * Debugger is active!
+[2023-09-02 16:07:14,339]224 werkzeug - INFO -  * Debugger PIN: 749-178-404
+[2023-09-02 16:07:17,846]224 werkzeug - INFO - 127.0.0.1 - - [02/Sep/2023 16:07:17] "GET /predict HTTP/1.1" 200 -
+[2023-09-02 16:07:40,382]224 werkzeug - INFO - 127.0.0.1 - - [02/Sep/2023 16:07:40] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2023-09-02 16:07:40,393]224 werkzeug - INFO - 127.0.0.1 - - [02/Sep/2023 16:07:40] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2023-09-02 16:07:40,394]224 werkzeug - INFO - 127.0.0.1 - - [02/Sep/2023 16:07:40] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2023-09-02 16:07:40,406]224 werkzeug - INFO - 127.0.0.1 - - [02/Sep/2023 16:07:40] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-09-02 16:07:40,417]224 werkzeug - INFO - 127.0.0.1 - - [02/Sep/2023 16:07:40] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-09-02 16:15:47,954]224 werkzeug - INFO -  * Detected change in '/Users/armel/Documents/MSDSThesis/TB_Flask_Predictor_App/src/pipeline/predict_pipeline.py', reloading

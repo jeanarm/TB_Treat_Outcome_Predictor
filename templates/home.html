@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>TB Treatment Outcome Predictor</title>
+    <!-- Add your CSS stylesheets here or link them externally -->
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 400px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        form {
+            background-color: #f2f2f2;
+            border: 1px solid #ccc;
+            padding: 20px;
+            border-radius: 5px;
+        }
+
+        .mb-3 {
+            margin-bottom: 20px;
+        }
+
+        .form-label {
+            font-weight: bold;
+        }
+
+        .form-control {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+
+        .btn-primary {
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .btn-primary:hover {
+            background-color: #0056b3;
+        }
+
+        /* Additional styles for form labels and inputs */
+        .form-group {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .form-label {
+            margin-bottom: 5px;
+        }
+
+        /* Center the form on the page */
+        .login {
+            display: flex;
+            justify-content: center;
+        }
+
+        /* Styles for the prediction result */
+        h2 {
+            text-align: center;
+            margin-top: 20px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>TB Treatment Outcome Predictor</h1>
+    <div class="login">
+        <form action="{{ url_for('predict_datapoint')}}" method="post">
+            <div class="form-group">
+                <label class="form-label">Control After TB Treatment</label>
+                <select class="form-control" name="control_end" required>
+                    <option value="" disabled selected>Select</option>
+                    <option value="Negative">Negative</option>
+                    <option value="Positive">Positive</option>
+                    <option value="Not Done">Not Done</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label class="form-label">Control After 2 month</label>
+                <select class="form-control" name="control_after_2" required>
+                    <option value="" disabled selected>Select</option>
+                    <option value="Negative">Negative</option>
+                    <option value="Positive">Positive</option>
+                    <option value="Not Done">Not Done</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label class="form-label">Control After 5 month</label>
+                <select class="form-control" name="control_after_5" required>
+                    <option value="" disabled selected>Select</option>
+                    <option value="Negative">Negative</option>
+                    <option value="Positive">Positive</option>
+                    <option value="Not Done">Not Done</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label class="form-label">Site of disease</label>
+                <select class="form-control" name="site_of_disease" required>
+                    <option value="" disabled selected>Select</option>
+                    <option value="Pulmonary">Pulmonary</option>
+                    <option value="Extra pulmonary">Extra Pulmonary</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label class="form-label">GeneXpert results - MTB</label>
+                <select class="form-control" name="genexpert_result" required>
+                    <option value="" disabled selected>Select</option>
+                    <option value="Detected">Detected </option>
+                    <option value="Not detected">Not Detected</option>
+                    <option value="Not Done">Not Done</option>
+                    <option value="No Result">No Result</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label class="form-label">Method of TB confirmation</label>
+                <select class="form-control" name="confirmation_method" required>
+                    <option value="" disabled selected>Select</option>
+                    <option value="CONFIRMATION_BACTERIOLOGICAL">CONFIRMATION_BACTERIOLOGICAL </option>
+                    <option value="Clinically diagnosed">Clinicaly Diagonosed</option>
+                    <option value="Bacteriologically Confirmed">Bacteriologically Confirmed</option>
+                    <option value="CONFIRMATION_CLINICAL">CONFIRMATION_CLINICAL</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label class="form-label">Simea Speciment Results</label>
+                <select class="form-control" name="smea_result" required>
+                    <option value="" disabled selected>Select</option>
+                    <option value="Negative">Negative</option>
+                    <option value="Positive">Positive</option>
+                    <option value="Not Done">Not Done</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label class="form-label">Previous treatment history</label>
+                <select class="form-control" name="treatment_history" required>
+                    <option value="" disabled selected>Select</option>
+                    <option value="Treatment after failure of first line treatment">Treatment after failure of 1st line</option>
+                    <option value="Treatment after failure of second line">Treatment after failure of 2st line</option>
+                    <option value="New">New</option>
+                    <option value="Relapse">Relapse</option>
+                    <option value="Other previously treated">Other previously treated</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label class="form-label">Hospital</label>
+                <input class="form-control" type="text" name="hospital" placeholder="Hospital" required />
+            </div>
+            <div class="form-group">
+                <label class="form-label">Weight after TB Treatment(kg)</label>
+                <input class="form-control" type="number" name="weight_end" placeholder="Enter Weight" min="0" max="100" required />
+            </div>
+            <br/>
+            <div class="form-group">
+                <input class="btn btn-primary" type="submit" value="Predict Outcome" required />
+            </div>
+        </form>
+    </div>
+    <h2  style="color:blue">
+        The Treatment outcome of this person has  84% chance of being :<h2 style="color: green">{{results}}</h2> 
+    </h2>
+</body>
+</html>

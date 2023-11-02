@@ -1,0 +1,8 @@
+[2023-09-02 17:07:08,497]224 werkzeug - WARNING -  * Debugger is active!
+[2023-09-02 17:07:08,504]224 werkzeug - INFO -  * Debugger PIN: 749-178-404
+[2023-09-02 17:07:14,854]224 werkzeug - INFO - 127.0.0.1 - - [02/Sep/2023 17:07:14] "GET /predict HTTP/1.1" 200 -
+[2023-09-02 17:07:43,261]224 werkzeug - INFO - 127.0.0.1 - - [02/Sep/2023 17:07:43] "POST /predict HTTP/1.1" 200 -
+[2023-09-02 17:10:27,846]224 werkzeug - INFO - 127.0.0.1 - - [02/Sep/2023 17:10:27] "GET /predict HTTP/1.1" 200 -
+[2023-09-02 17:10:51,147]224 werkzeug - INFO - 127.0.0.1 - - [02/Sep/2023 17:10:51] "POST /predict HTTP/1.1" 200 -
+[2023-09-02 17:11:15,599]224 werkzeug - INFO - 127.0.0.1 - - [02/Sep/2023 17:11:15] "POST /predict HTTP/1.1" 200 -
+[2023-09-02 17:11:37,233]224 werkzeug - INFO - 127.0.0.1 - - [02/Sep/2023 17:11:37] "POST /predict HTTP/1.1" 200 -

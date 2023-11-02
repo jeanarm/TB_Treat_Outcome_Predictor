@@ -1,0 +1,300 @@
+Control After TB Treatment,Control After 2 month,Control After 5 month,Site of disease,GeneXpert results - MTB,Method of TB confirmation,Hospital,Smear specimen result,Weight after TB Treatment(kg),Previous treatment history,Treatment outcome
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Rwinkwavu CS,Positive,58.0,New,Cured
+Negative,Positive,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Rwinkwavu CS,Not Done,60.0,Relapse,Cured
+Negative,Positive,Negative,Pulmonary,Detected,Bacteriologically confirmed,Ntaruka (kinoni Burera) CS,Positive,65.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,Bacteriologically confirmed,Rilima CS,Positive,48.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Ruramira CS,Not done,58.0,New,Cured
+Negative,Negative,Not Done,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Gitega (kibangu) CS,Not done,51.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,Bacteriologically confirmed,Nyagatare CS,Positive,51.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,Bacteriologically confirmed,Rusatira-kinazi CS,Positive,67.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Rwembogo CS,Not Done,58.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,Bacteriologically confirmed,Rugarama (gatsibo) CS,Not Done,54.0,New,Cured
+Not Done,Not Done,Not Done,Extra pulmonary,Detected,Bacteriologically confirmed,CHK(CHUK) HNR,Not done,50.0,New,Died
+Not Done,Not Done,Not Done,Pulmonary,Not Done,CONFIRMATION_CLINICAL,Kabgayi DH,Not Done,25.0,New,Died
+Not Done,Not Done,Not Done,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Remera (Gasabo) CS,Not Done,56.0,New,Lost to follow-up
+Negative,Negative,Negative,Pulmonary,Detected,Bacteriologically confirmed,Crete Congo Nil CS,Positive,53.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Ruhango PH,Not done,69.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,Bacteriologically confirmed,Cor-unum CS,Not Done,54.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,Bacteriologically confirmed,Muhoza (Ruhengeri) CS,Positive,57.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Kigeme DH,Not done,54.0,New,Cured
+Negative,Negative,Negative,Extra pulmonary,Not Done,CONFIRMATION_CLINICAL,Bushenge PH,Not done,54.0,New,Completed
+Not Done,Not Done,Not Done,Pulmonary,Not detected,Clinically diagnosed,Murunda DH,Not done,48.0,New,Died
+Not Done,Negative,Not Done,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Muhura CS,Positive,37.0,New,Completed
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Kabgayi CS,Positive,56.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Kabgayi DH,Positive,58.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Cyanika (nyamagabe) CS,Positive,51.0,New,Cured
+Negative,Negative,Negative,Extra pulmonary,Not Done,CONFIRMATION_CLINICAL,Ruhengeri RH,Not Done,68.0,New,Completed
+Negative,Negative,Negative,Pulmonary,Detected,Bacteriologically confirmed,Kiziguro DH,Not Done,62.0,New,Cured
+Not Done,Not Done,Not Done,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Islamic (Bugarama) CS,Positive,40.0,New,Died
+Not Done,Not Done,Not Done,Pulmonary,Not Done,Clinically diagnosed,Kabgayi DH,Not Done,37.0,New,Completed
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Musambira CS,Not done,52.0,New,Cured
+Negative,Negative,Not Done,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,CHK(CHUK) HNR,Not done,63.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Kacyiru CS,Not Done,50.0,New,Cured
+Negative,Not Done,Negative,Pulmonary,Detected,Bacteriologically confirmed,Murunda DH,Not Done,46.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Kicukiro CS,Not Done,53.0,Relapse,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Kinyinya CS,Not Done,61.0,New,Cured
+Negative,Not Done,Not Done,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Kamabuye CS,Not done,57.0,New,Completed
+Not Done,Negative,Not Done,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Kiziguro DH,Not Done,43.0,New,Died
+Not Done,Negative,Not Done,Pulmonary,Detected,Bacteriologically confirmed,Remera-mbogo CS,Not Done,40.0,New,Died
+Negative,Positive,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Rukoma Sake CS,Positive,52.0,New,Cured
+Negative,Positive,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Gishubi CS,Not done,38.0,New,Cured
+Not Done,Negative,Not Done,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Nyamyumba CS,Positive,76.0,New,Completed
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Gahini DH,Not done,56.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Kinyinya CS,Not Done,58.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Rwanda Women's Network CS,Not done,63.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,Bacteriologically confirmed,Kigufi CS,Positive,70.0,New,Cured
+Not Done,Not Done,Not Done,Extra pulmonary,Not Done,Clinically diagnosed,Rwanda Military Hospital,Not Done,55.0,New,Completed
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Shyogwe CS,Not done,38.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,Bacteriologically confirmed,Muhoza (Ruhengeri) CS,Positive,55.0,New,Cured
+Not Done,Not Done,Not Done,Pulmonary,Not Done,CONFIRMATION_CLINICAL,Mugonero DH,Not done,58.0,New,Completed
+Not Done,Not Done,Not Done,Extra pulmonary,Not Done,Clinically diagnosed,Rwanda Military Hospital,Not Done,65.0,New,Completed
+Not Done,Not Done,Not Done,Pulmonary,Not Done,CONFIRMATION_CLINICAL,Kabgayi CS,Not Done,9.0,New,Completed
+Negative,Negative,Negative,Pulmonary,Detected,Bacteriologically confirmed,Shingiro CS,Positive,54.0,New,Cured
+Negative,Negative,Not Done,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Kibungo CS,Positive,65.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Kairos CS,Not Done,62.0,New,Cured
+Not Done,Not Done,Not Done,Extra pulmonary,Detected,Bacteriologically confirmed,CHK(CHUK) HNR,Not done,54.0,New,Completed
+Not Done,Not Done,Not Done,Extra pulmonary,Not Done,Clinically diagnosed,CHK(CHUK) HNR,Not done,50.0,New,Completed
+Not Done,Not Done,Not Done,Extra pulmonary,Detected,Bacteriologically confirmed,CHK(CHUK) HNR,Not done,51.0,New,Completed
+Negative,Negative,Negative,Pulmonary,Detected,Bacteriologically confirmed,Masaka DH,Not Done,56.0,Relapse,Cured
+Not Done,Not Done,Not Done,Pulmonary,Not detected,Clinically diagnosed,Masaka DH,Not Done,21.0,New,Completed
+Negative,Negative,Negative,Pulmonary,Detected,Bacteriologically confirmed,Kigarama CS,Positive,55.0,New,Cured
+Not Done,Not Done,Not Done,Pulmonary,Not detected,CONFIRMATION_CLINICAL,Kigeme DH,Not done,10.0,New,Completed
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Cyabayaga CS,Not done,54.0,New,Cured
+Not Done,Not Done,Not Done,Extra pulmonary,Not Done,CONFIRMATION_CLINICAL,Bushenge PH,Not done,52.0,New,Completed
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Byahi (rubavu) CS,Positive,52.0,New,Cured
+Not Done,Not Done,Not Done,Extra pulmonary,Not Done,CONFIRMATION_CLINICAL,Butare Chu Hnr (huye),Not Done,53.0,New,Completed
+Not Done,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Mayange (bugesera) CS,Positive,60.0,New,Completed
+Negative,Negative,Negative,Pulmonary,Detected,Bacteriologically confirmed,Rwanda Military Hospital,Not Done,62.0,New,Completed
+Negative,Negative,Negative,Pulmonary,Detected,Bacteriologically confirmed,St. Francois Rusizi CS,Positive,57.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Zaza CS,Positive,56.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Rwamagana PH,Not Done,45.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Rutongo DH,Not Done,55.0,New,Cured
+Not Done,Not Done,Not Done,Extra pulmonary,Not Done,Clinically diagnosed,Rwanda Military Hospital,Not done,60.0,New,Died
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Kacyiru CS,Not Done,61.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Gashora CS,Not Done,54.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Rwanda Military Hospital,Not done,48.0,New,Cured
+Not Done,Not Done,Not Done,Pulmonary,Not Done,CONFIRMATION_CLINICAL,Mugonero DH,Not done,40.0,New,Died
+Not Done,Not Done,Not Done,Pulmonary,Not Done,Clinically diagnosed,Muhanga Prison,Negative,61.0,New,Completed
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Muhanga Prison,Not Done,75.0,New,Cured
+Not Done,Not Done,Not Done,Extra pulmonary,Not Done,Bacteriologically confirmed,CHK(CHUK) HNR,Positive,38.0,New,Completed
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Ntaruka (nasho Kirehe) CS,Not done,54.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Byumba DH,Not Done,62.0,New,Cured
+Not Done,Not Done,Not Done,Pulmonary,Not detected,Clinically diagnosed,Avega Kigali CS,Not Done,44.0,New,Died
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Mugonero DH,Not done,61.0,New,Cured
+Not Done,Not Done,Not Done,Extra pulmonary,Not detected,Clinically diagnosed,Rwamagana PH,Not Done,76.0,New,Completed
+Negative,Negative,Negative,Pulmonary,Detected,Bacteriologically confirmed,Cor-unum CS,Not Done,50.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Mukura (Rutsiro) CS,Not Done,49.0,New,Cured
+Not Done,Negative,Not Done,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Kabgayi DH,Negative,40.0,New,Died
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Bukora CS,Positive,66.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Zaza CS,Positive,44.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,Bacteriologically confirmed,Kigarama CS,Positive,46.0,New,Cured
+Not Done,Not Done,Not Done,Extra pulmonary,Not Done,Clinically diagnosed,Rwanda Military Hospital,Not done,72.0,New,Completed
+Not Done,Not Done,Not Done,Pulmonary,Not Done,Clinically diagnosed,Byimana CS,Not Done,9.0,New,Completed
+Negative,Positive,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Kinigi CS,Positive,70.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,Bacteriologically confirmed,Biryogo CS,Not Done,50.0,Relapse,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Muhima CS,Not done,54.0,Relapse,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Bethsaida CS,Not Done,70.0,New,Cured
+Not Done,Not Done,Not Done,Pulmonary,Not Done,Bacteriologically confirmed,Gisenyi DH,Positive,56.0,New,Completed
+Not Done,Negative,Not Done,Extra pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Kabgayi DH,Not done,54.0,New,Completed
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Nduba CS,Not Done,49.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Mudende CS,Negative,67.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,Bacteriologically confirmed,Cor-unum CS,Not Done,54.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Gisenyi CS,Not done,69.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Zaza CS,Positive,68.0,New,Cured
+Not Done,Not Done,Not Done,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Kabaya DH,Not done,80.0,New,Died
+Negative,Negative,Negative,Pulmonary,Detected,Bacteriologically confirmed,Birambo CS,Positive,46.0,New,Cured
+Not Done,Not Done,Not Done,Extra pulmonary,Not Done,CONFIRMATION_CLINICAL,Nyamata DH,Not Done,55.0,New,Completed
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Rwamagana Prison,Not Done,66.0,New,Cured
+Negative,Negative,Not Done,Pulmonary,Detected,Bacteriologically confirmed,CHK(CHUK) HNR,Not done,72.0,New,Cured
+Not Done,Negative,Not Done,Pulmonary,Detected,Bacteriologically confirmed,Gisenyi DH,Not done,71.0,New,Completed
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Zaza CS,Not Done,50.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Rubona (rwamagana) CS,Not Done,66.0,New,Cured
+Not Done,Negative,Not Done,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Kinyinya CS,Not Done,58.0,New,Lost to follow-up
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Nyarugenge Prison,Not done,58.0,New,Cured
+Not Done,Not Done,Not Done,Extra pulmonary,Not Done,CONFIRMATION_CLINICAL,Gitwe DH,Not done,44.0,New,Completed
+Negative,Negative,Negative,Extra pulmonary,Not Done,CONFIRMATION_CLINICAL,Bushenge PH,Not Done,50.0,Relapse,Completed
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Kabutare DH,Not done,62.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Kivu CS,Not Done,60.0,New,Cured
+Not Done,Not Done,Not Done,Extra pulmonary,Not Done,Clinically diagnosed,CHK(CHUK) HNR,Not done,75.0,New,Completed
+Not Done,Not Done,Not Done,Pulmonary,Not detected,CONFIRMATION_CLINICAL,Nyanza DH,Not Done,54.0,New,Completed
+Not Done,Not Done,Not Done,Pulmonary,Not Done,CONFIRMATION_BACTERIOLOGICAL,Kamonyi (gacurabwenge) CS,Positive,35.0,New,Died
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Nyarugenge Prison,Positive,56.0,New,Cured
+Not Done,Not Done,Not Done,Extra pulmonary,Not Done,CONFIRMATION_CLINICAL,Kabaya DH,Not done,43.0,New,Died
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Kabuga (kicukiro) CS,Not Done,60.0,Relapse,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Gashora CS,Positive,59.0,New,Cured
+Not Done,Not Done,Not Done,Extra pulmonary,Not Done,Clinically diagnosed,Rwanda Military Hospital,Not Done,45.0,New,Died
+Negative,Negative,Negative,Pulmonary,Detected,Bacteriologically confirmed,Cor-unum CS,Not done,58.0,New,Cured
+Negative,Positive,Not Done,Pulmonary,Not Done,CONFIRMATION_BACTERIOLOGICAL,Nyakiriba CS,Positive,66.0,New,Completed
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Nyanza Prison,Not Done,54.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Mayange (bugesera) CS,Positive,64.0,New,Cured
+Not Done,Not Done,Not Done,Extra pulmonary,Not detected,Clinically diagnosed,Rwanda Military Hospital,Not Done,52.0,New,Completed
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Kibuye RH,Not Done,58.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,Bacteriologically Confirmed,Nyakabungo CS,Positive,50.0,New,Cured
+Not Done,Negative,Negative,Pulmonary,Not Done,CONFIRMATION_BACTERIOLOGICAL,Rusoro CS,Positive,56.0,New,Cured
+Negative,Positive,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Kagugu CS,Not Done,48.0,New,Cured
+Negative,Negative,Not Done,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Musasa CS,Positive,63.0,Treatment after failure of first line treatment,Completed
+,Negative,,Pulmonary,Not Done,Bacteriologically confirmed,Birembo CS,Positive,59.0,Treatment after failure of first line treatment,Failure
+Negative,Negative,Negative,Pulmonary,Detected,Bacteriologically confirmed,Shyorongi CS,Positive,72.0,New,Cured
+,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Mahama Refugee Camp CS,Positive,54.0,New,Completed
+Not Done,Not Done,Not Done,Pulmonary,Not Done,Clinically diagnosed,Gisenyi DH,Not done,60.0,New,Completed
+Not Done,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Ruramba CS,Positive,52.0,New,Completed
+Not Done,Not Done,Not Done,Pulmonary,Not detected,Clinically diagnosed,Masaka DH,Negative,44.0,New,Failure
+Not Done,Not Done,Not Done,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Gakoma DH,Not Done,48.0,New,Died
+Not Done,Not Done,Not Done,Pulmonary,Not detected,CONFIRMATION_CLINICAL,Ngarama DH,Not done,11.0,New,Completed
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Muhanga Prison,Positive,64.0,Relapse,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Gikondo CS,Not done,54.0,New,Cured
+Positive,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Mukarange CS,Positive,55.0,Treatment after failure of first line treatment,Failure
+Not Done,Not Done,Not Done,Pulmonary,Not Done,Clinically diagnosed,Gisenyi DH,Not Done,45.0,New,Completed
+Negative,Not Done,Negative,Pulmonary,Detected,Bacteriologically confirmed,Remera (Gasabo) CS,Not Done,50.0,Relapse,Cured
+Not Done,Not Done,Not Done,Extra pulmonary,Detected,Bacteriologically confirmed,Karambo (rubavu) CS,Not done,49.0,New,Completed
+Not Done,Not Done,Not Done,Extra pulmonary,Not detected,CONFIRMATION_CLINICAL,Butare Chu Hnr (huye),Not Done,65.0,New,Completed
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Ruli DH,Positive,50.0,New,Cured
+Not Done,Not Done,Not Done,Pulmonary,Not detected,Clinically diagnosed,Masaka DH,Not Done,16.0,New,Completed
+Not Done,Not Done,Not Done,Extra pulmonary,Not Done,CONFIRMATION_CLINICAL,Nyange (ruli) CS,Not Done,7.0,New,Completed
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Gitwe DH,Negative,32.0,New,Cured
+Not Done,Not Done,Not Done,Pulmonary,Not detected,Clinically diagnosed,Mugonero DH,Not done,51.0,New,Completed
+Negative,Negative,Negative,Pulmonary,Detected,Bacteriologically confirmed,Masaka DH,Not Done,52.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,Bacteriologically confirmed,Masaka DH,Not Done,84.0,New,Cured
+Not Done,Not Done,Not Done,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Ruhango PH,Not done,41.0,New,Died
+Negative,Positive,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Kabutare DH,Not done,56.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,Bacteriologically confirmed,Kabatwa CS,Positive,76.0,New,Cured
+Not Done,Not Done,Not Done,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Munini DH,Positive,32.0,New,Died
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Nyakabungo CS,Positive,60.0,Relapse,Cured
+Not Done,Not Done,Not Done,Pulmonary,Not detected,CONFIRMATION_CLINICAL,Ruhango PH,Negative,55.0,New,Completed
+Negative,Negative,Negative,Pulmonary,Detected,Bacteriologically confirmed,Cyondo CS,Positive,55.0,New,Cured
+Not Done,Not Done,Not Done,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Busanza CS,Positive,45.0,New,Lost to follow-up
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Nyakinama CS,Positive,62.0,New,Cured
+Negative,Positive,Negative,Pulmonary,Detected,Bacteriologically confirmed,Rukara CS,Not Done,65.0,New,Cured
+Not Done,Negative,Not Done,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Rwinkwavu CS,Positive,48.0,Relapse,Lost to follow-up
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Nyarugenge Prison,Not done,57.0,Treatment after lost to follow-up,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Bethsaida CS,Not Done,58.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,Bacteriologically confirmed,Masaka DH,Not Done,58.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Busoro CS,Positive,52.0,New,Cured
+Not Done,Not Done,Not Done,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Gisenyi DH,Not done,76.0,New,Completed
+Negative,Negative,Negative,Pulmonary,Detected,Bacteriologically confirmed,Nyanza DH,Not done,44.0,Relapse,Cured
+Negative,Negative,Negative,Pulmonary,Not Done,Bacteriologically confirmed,Biryogo CS,Positive,64.0,New,Cured
+Not Done,Not Done,Not Done,Pulmonary,Not detected,CONFIRMATION_CLINICAL,Kigeme DH,Not done,45.0,New,Died
+Not Done,Not Done,Not Done,Pulmonary,Not detected,Clinically diagnosed,Gihundwe DH,Not done,55.0,New,Completed
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Muhima CS,Not done,67.0,Relapse,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Ruhango CS,Positive,62.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Kagugu CS,Not done,38.0,New,Cured
+Not Done,Not Done,Not Done,Extra pulmonary,Not Done,CONFIRMATION_CLINICAL,Rusizi Prison,Not Done,56.0,New,Completed
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Gihogwe CS,Not Done,57.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Kinyinya CS,Not Done,55.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Gakurazo CS,Not done,44.0,New,Cured
+Not Done,Not Done,Not Done,Pulmonary,Detected,Bacteriologically confirmed,CHK(CHUK) HNR,Not done,58.0,New,Died
+Not Done,Not Done,Not Done,Pulmonary,Not detected,Clinically diagnosed,Munini DH,Not done,42.0,New,Completed
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Muhanga Prison,Not done,67.0,New,Cured
+Negative,Positive,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Mukarange CS,Not done,65.0,New,Cured
+Not Done,Not Done,Not Done,Pulmonary,Not Done,CONFIRMATION_CLINICAL,Kabgayi CS,Not Done,11.0,New,Completed
+Not Done,Not Done,Not Done,Extra pulmonary,Not Done,CONFIRMATION_CLINICAL,Kirinda DH,Not Done,45.0,New,Died
+Not Done,Not Done,Not Done,Extra pulmonary,Not Done,CONFIRMATION_CLINICAL,Rwinkwavu DH,Not Done,57.0,New,Completed
+Not Done,Negative,Not Done,Pulmonary,Not Done,CONFIRMATION_BACTERIOLOGICAL,Gikore CS,Positive,46.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Nyarugenge Prison,Positive,56.0,New,Cured
+Not Done,Not Done,Not Done,Pulmonary,Not Done,CONFIRMATION_CLINICAL,Murunda DH,Not Done,50.0,New,Died
+Not Done,Not Done,Not Done,Extra pulmonary,Not Done,CONFIRMATION_CLINICAL,Gitwe DH,Not done,31.0,New,Completed
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Kagugu CS,Not done,52.0,Relapse,Cured
+Not Done,Negative,Not Done,Pulmonary,Not Done,Bacteriologically confirmed,Byahi (rubavu) CS,Positive,53.0,Relapse,Completed
+Not Done,Not Done,Not Done,Pulmonary,Not Done,Clinically diagnosed,Muhima DH,Not Done,52.0,New,Completed
+Not Done,Not Done,Not Done,Pulmonary,Not Done,CONFIRMATION_CLINICAL,Remera Rukoma DH,Not done,60.0,New,Completed
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Gihogwe CS,Not Done,55.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Kinyinya CS,Not Done,62.0,New,Cured
+Not Done,Not Done,Not Done,Extra pulmonary,Not Done,Clinically diagnosed,Rwanda Military Hospital,Not Done,60.0,New,Completed
+Not Done,Not Done,Not Done,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Muhororo DH,Not Done,9.0,New,Completed
+Not Done,Negative,Not Done,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Musambira CS,Not done,52.0,New,Lost to follow-up
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Mutenderi CS,Not Done,52.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Ruhengeri RH,Not done,52.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,Bacteriologically confirmed,Butamwa CS,Not Done,66.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,Bacteriologically confirmed,Nyarusange (nyanza) CS,Positive,53.0,New,Cured
+Not Done,Not Done,Not Done,Pulmonary,Not Done,CONFIRMATION_CLINICAL,Kizibere CS,Not done,11.0,New,Completed
+Not Done,Not Done,Not Done,Extra pulmonary,Not Done,CONFIRMATION_CLINICAL,King Faisal Hospital HNR,Not done,66.0,New,Completed
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Kizibere CS,Not done,49.0,New,Cured
+Not Done,Not Done,Not Done,Extra pulmonary,Detected,Bacteriologically confirmed,CHK(CHUK) HNR,Not done,55.0,New,Completed
+Not Done,Not Done,Not Done,Pulmonary,Not detected,Clinically diagnosed,Nyagatare DH,Not Done,46.0,New,Completed
+Not Done,Not Done,,Pulmonary,Not detected,Clinically diagnosed,Rwamagana Prison,Not Done,44.0,New,Died
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Gikondo CS,Not done,50.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Muhima CS,Not done,63.0,New,Cured
+Not Done,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Cyanika (nyamagabe) CS,Positive,53.0,New,Completed
+Negative,Negative,Not Done,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Kacyiru CS,Not Done,48.0,New,Cured
+Negative,Negative,Not Done,Pulmonary,Not Done,Bacteriologically confirmed,Ruhango CS,Positive,50.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Rutenderi CS,Positive,56.0,New,Cured
+Not Done,Not Done,Not Done,Extra pulmonary,Detected,Bacteriologically confirmed,CHK(CHUK) HNR,Not done,50.0,New,Died
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Kabusunzu CS,Not done,61.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,Bacteriologically confirmed,Rusizi Prison,Not done,75.0,New,Cured
+Negative,Positive,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Rukira CS,Not done,50.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Mugina CS,Positive,43.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Byimana CS,Positive,40.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,Bacteriologically confirmed,Cor-unum CS,Not Done,50.0,New,Cured
+Not Done,Not Done,Not Done,Extra pulmonary,Not Done,CONFIRMATION_CLINICAL,Mugonero DH,Negative,48.0,New,Completed
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Mimuri CS,Positive,50.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Nyarugunga CS,Not done,64.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Kabutare DH,Not done,63.0,New,Cured
+Not Done,Not Done,Not Done,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Kagugu CS,Not done,53.0,New,Lost to follow-up
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Nyabinoni CS,Positive,58.0,Relapse,Cured
+Negative,Negative,Negative,Pulmonary,Not Done,CONFIRMATION_BACTERIOLOGICAL,Mahama CS,Positive,78.0,New,Cured
+Not Done,Not Done,Not Done,Pulmonary,Not detected,CONFIRMATION_CLINICAL,Nyagatare DH,Not Done,46.0,New,Completed
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Gihundwe DH,Not done,54.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Gisenyi CS,Not done,53.0,Treatment after failure of first line treatment,Cured
+Negative,Negative,Not Done,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Busoro CS,Positive,45.0,New,Not evaluated
+Not Done,Not Done,Not Done,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Gihogwe CS,Not Done,50.0,New,Lost to follow-up
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Mugonero DH,Not done,61.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Rwamagana PH,Not done,53.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,Bacteriologically confirmed,Cor-unum CS,Not Done,65.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,Bacteriologically confirmed,Rugarama (gatsibo) CS,Positive,48.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Ruhunda CS,Positive,61.0,New,Cured
+Not Done,Not Done,Not Done,Pulmonary,Detected,Bacteriologically confirmed,Rubungo CS,Not done,59.0,New,Lost to follow-up
+Not Done,Not Done,Not Done,Extra pulmonary,Not Done,Clinically diagnosed,Gisenyi DH,Not done,58.0,New,Completed
+Negative,Negative,Negative,Pulmonary,Detected,Bacteriologically confirmed,Bisesero (karongi) CS,Not done,67.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,Bacteriologically confirmed,Gasovu CS,Positive,60.0,New,Cured
+Not Done,Not Done,Not Done,Extra pulmonary,Not Done,Clinically diagnosed,CHK(CHUK) HNR,Not done,47.0,New,Died
+Not Done,Not Done,Not Done,Extra pulmonary,Not Done,CONFIRMATION_CLINICAL,Gihundwe DH,Not done,30.0,New,Completed
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Nyarugenge Prison,Positive,72.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Ruhango PH,Not done,60.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Not detected,Bacteriologically confirmed,Ryamanyoni CS,Positive,54.0,New,Cured
+Negative,Negative,Not Done,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Nyarusiza CS,Not done,60.0,New,Completed
+Not Done,Not Done,Not Done,Pulmonary,Not Done,CONFIRMATION_CLINICAL,Kabutare DH,Not done,44.0,New,Completed
+Negative,Negative,Negative,Pulmonary,Not Done,Bacteriologically confirmed,Mwendo (karongi) CS,Positive,56.0,Treatment after failure of first line treatment,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Nyange A CS,Positive,45.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Mbazi CS,Not Done,57.0,New,Cured
+Not Done,Not Done,Not Done,Extra pulmonary,Not Done,CONFIRMATION_CLINICAL,Ruhengeri RH,Not Done,70.0,New,Completed
+Negative,Negative,Negative,Pulmonary,Detected,Bacteriologically confirmed,Remera (Gasabo) CS,Not Done,54.0,New,Cured
+Negative,Positive,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Busoro-gishamvu CS,Positive,61.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Nyabitare (kirehe) CS,Positive,56.0,New,Cured
+Not Done,Not Done,Not Done,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Mugina CS,Not Done,42.0,New,Died
+Not Done,Not Done,Not Done,Extra pulmonary,Not detected,CONFIRMATION_CLINICAL,Nyanza DH,Not Done,55.0,New,Completed
+Not Done,Not Done,Not Done,Pulmonary,Detected,Bacteriologically confirmed,CHK(CHUK) HNR,Not done,46.0,New,Died
+Negative,Negative,Negative,Pulmonary,Detected,Bacteriologically confirmed,Cor-unum CS,Not Done,52.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,Bacteriologically confirmed,Kiziguro DH,Not Done,58.0,Relapse,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Nyarugunga CS,Not Done,68.0,New,Cured
+Not Done,Not Done,Not Done,Extra pulmonary,Not Done,CONFIRMATION_CLINICAL,Ruhengeri RH,Not Done,59.0,New,Died
+Not Done,Not Done,Not Done,Extra pulmonary,Not Done,CONFIRMATION_CLINICAL,Rwinkwavu DH,Not Done,47.0,Relapse,Completed
+Negative,Negative,Not Done,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Nyagatare CS,Positive,65.0,Relapse,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Rwinkwavu CS,Not Done,58.0,Relapse,Cured
+Not Done,Not Done,Not Done,Extra pulmonary,Not Done,CONFIRMATION_CLINICAL,Bushenge PH,Not done,56.0,New,Died
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Muhanga Prison,Positive,63.0,New,Cured
+Not Done,Not Done,Not Done,Pulmonary,Not Done,CONFIRMATION_CLINICAL,Mibilizi DH,Not done,46.0,New,Died
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Zaza CS,Positive,53.0,New,Cured
+Not Done,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Butare Chu Hnr (huye),Not Done,54.0,New,Completed
+Negative,Negative,Negative,Pulmonary,Detected,Bacteriologically confirmed,Karangazi CS,Positive,66.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Not Done,CONFIRMATION_BACTERIOLOGICAL,Busasamana CS,Positive,60.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Gihara CS,Positive,50.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Kirehe CS,Not done,60.0,New,Cured
+Not Done,Not Done,Not Done,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Kagugu CS,Not Done,60.0,New,Completed
+Negative,Negative,Negative,Pulmonary,Not Done,CONFIRMATION_BACTERIOLOGICAL,Gisenyi CS,Positive,54.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Nyakinama CS,Positive,57.0,New,Cured
+Negative,Positive,Not Done,Pulmonary,Detected,Bacteriologically confirmed,CHK(CHUK) HNR,Not done,38.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Mushubati CS,Not done,54.0,New,Cured
+Negative,Positive,Negative,Pulmonary,Detected,Bacteriologically confirmed,Musaza CS,Positive,67.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Gikondo CS,Not done,64.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,Bacteriologically confirmed,Nyange (Musanze) CS,Positive,62.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,Bacteriologically confirmed,Gacuba Ii CS,Not done,52.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,Bacteriologically confirmed,Kabuga (kicukiro) CS,Not Done,46.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Nyanza DH,Not Done,55.0,New,Cured
+,,,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Gitwe DH,Not Done,51.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Not Done,CONFIRMATION_BACTERIOLOGICAL,Rukomo CS,Positive,59.0,Relapse,Completed
+Negative,Negative,Negative,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Kabarore CS,Positive,47.0,New,Cured
+Negative,Negative,Negative,Pulmonary,Detected,Bacteriologically confirmed,Nyarugenge Prison,Positive,67.0,New,Cured
+Not Done,Not Done,Not Done,Extra pulmonary,Not Done,CONFIRMATION_CLINICAL,Kibuye RH,Not Done,15.0,New,Completed
+Negative,Negative,Not Done,Pulmonary,Detected,CONFIRMATION_BACTERIOLOGICAL,Rurenge CS,Not done,61.0,New,Cured
+Not Done,Not Done,Not Done,Extra pulmonary,Not detected,CONFIRMATION_CLINICAL,Kigeme DH,Not done,47.0,New,Completed
+Negative,Negative,Negative,Pulmonary,Not Done,Bacteriologically confirmed,Kabari (Rubavu) CS,Positive,68.0,New,Cured

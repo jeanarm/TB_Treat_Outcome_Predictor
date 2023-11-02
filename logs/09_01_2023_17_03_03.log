@@ -1,0 +1,19 @@
+[2023-09-01 17:03:03,440]224 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.64:5000
+[2023-09-01 17:03:03,440]224 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[2023-09-01 17:03:03,441]224 werkzeug - INFO -  * Restarting with stat
+[2023-09-01 17:03:03,972]224 werkzeug - WARNING -  * Debugger is active!
+[2023-09-01 17:03:03,982]224 werkzeug - INFO -  * Debugger PIN: 749-178-404
+[2023-09-01 17:03:08,685]224 werkzeug - INFO - 127.0.0.1 - - [01/Sep/2023 17:03:08] "GET / HTTP/1.1" 200 -
+[2023-09-01 17:03:14,683]224 werkzeug - INFO - 127.0.0.1 - - [01/Sep/2023 17:03:14] "GET /predict HTTP/1.1" 200 -
+[2023-09-01 17:03:43,185]224 werkzeug - INFO - 127.0.0.1 - - [01/Sep/2023 17:03:43] "GET /predict HTTP/1.1" 200 -
+[2023-09-01 17:06:00,810]224 werkzeug - INFO - 127.0.0.1 - - [01/Sep/2023 17:06:00] "GET /predict HTTP/1.1" 200 -
+[2023-09-01 17:07:25,390]224 werkzeug - INFO - 127.0.0.1 - - [01/Sep/2023 17:07:25] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2023-09-01 17:07:25,409]224 werkzeug - INFO - 127.0.0.1 - - [01/Sep/2023 17:07:25] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2023-09-01 17:07:25,409]224 werkzeug - INFO - 127.0.0.1 - - [01/Sep/2023 17:07:25] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2023-09-01 17:07:25,450]224 werkzeug - INFO - 127.0.0.1 - - [01/Sep/2023 17:07:25] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-09-01 17:07:25,476]224 werkzeug - INFO - 127.0.0.1 - - [01/Sep/2023 17:07:25] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-09-01 17:09:20,968]224 werkzeug - INFO -  * Detected change in '/Users/armel/Documents/MSDSThesis/TB_Flask_Predictor_App/app.py', reloading
+[2023-09-01 17:09:21,137]224 werkzeug - INFO -  * Restarting with stat
